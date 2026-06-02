@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="none" viewBox="0 0 48 48">
+  <!-- Outer circle or hex for a premium emblem feel -->
+  <rect width="44" height="44" x="2" y="2" rx="8" fill="#111827" />
+  
+  <!-- Modern stylized building structure with a crane or beam -->
+  <!-- Tower Crane mast (vertical grid lines) -->
+  <path d="M14 42 L14 12 M20 42 L20 12" stroke="#F97316" stroke-width="2.5" stroke-linecap="round" />
+  <!-- Diagonal latticework for the crane tower -->
+  <path d="M14 40 L20 34 M14 34 L20 28 M14 28 L20 22 M14 22 L20 16 M14 16 L20 10" stroke="#F97316" stroke-width="1.5" stroke-linecap="round" />
+  
+  <!-- Sleek Horizontal Jib (crane arm) -->
+  <path d="M6 10 L42 10" stroke="#F97316" stroke-width="3" stroke-linecap="round" />
+  
+  <!-- Counterweight -->
+  <rect x="6" y="7" width="5" height="5" rx="1" fill="#FFFFFF" />
+  
+  <!-- Trolley and hook line -->
+  <path d="M30 11 L30 20 M30 20 L27 22 L33 22" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <!-- Modern abstract structural foundation block -->
+  <path d="M4 42 L44 42" stroke="#F97316" stroke-width="4" stroke-linecap="round" />
+  
+  <!-- A glowing orange safety hardhat or gear outline at bottom right for extra detail -->
+  <path d="M34 32 C34 26, 42 26, 42 32 C42 33, 44 33, 44 34 L32 34 C32 33, 34 33, 34 32 Z" fill="#F97316" />
+</svg>
